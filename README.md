@@ -7,7 +7,7 @@ xUnit Used as framwork to build unit test
 ## Functionality 
 Providing CRUD operation for employee management which manage through rest API. Provided search functionality based on Name and functionality related to add/update/delete employee from the list.
 ## Technology 
-. WPF to build desktop application 
-. C# programming language
-. xUnit for unit testing
-. Flur for dynamic URL builder
+-  WPF to build desktop application 
+-  C# programming language
+-  xUnit for unit testing
+- Flur for dynamic URL builder
